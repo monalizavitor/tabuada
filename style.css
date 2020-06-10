@@ -24,21 +24,25 @@ section{
 }
 
 select{
-    width: 200px;
+    width: 150px;
     display: block;
     margin: auto;
 }
 
 #form{
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #txtnum{
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    
 }
 
 footer{
     color: white;
     text-align: center;
     font: italic;
+
 }
